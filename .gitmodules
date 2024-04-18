@@ -1,0 +1,3 @@
+[submodule "app/blu-fe-shared"]
+	path = app/shared
+	url = git@github.com:blu-ps/blu-fe-shared.git
